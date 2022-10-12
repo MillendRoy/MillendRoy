@@ -1,7 +1,6 @@
 ### Hi there, I'm Millend 👋
-## I'm an Undergraduate Student at IIT ISM Dhanbad and ML Developer!
+## I'm a SCAI Research Fellow at MSR, graduated in EE'21 from IIT ISM Dhanbad and have interests in working on ML/RL related projects!
 
-- 🔭 I’m currently working on my final year project!
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
