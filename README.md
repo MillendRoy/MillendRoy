@@ -1,6 +1,6 @@
 ### Hi there, I'm Millend 👋
 ## I'm a M.S. - Ph.D. student in Operations Research at Columbia University. I am currently working in projects related to sustainability. 
-# Background: Ex-Microsoft Research and graduated in Electrical Engineering from IIT ISM Dhanbad and have interests in working on ML/RL related projects in general!
+### Background: Ex-Microsoft Research and graduated in Electrical Engineering from IIT ISM Dhanbad and have interests in working on ML/RL related projects in general!
 
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other content creators
